@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052970721456",
+    "project_id": "passoamigo-fdfb4",
+    "storage_bucket": "passoamigo-fdfb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052970721456:android:a5f17b1e04b627323f9b75",
+        "android_client_info": {
+          "package_name": "com.passoamigo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcx83DxEcel1sql1Gt7Bssd_hADopM9QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

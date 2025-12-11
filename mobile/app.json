@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "PassoAmigo",
+    "slug": "passoamigo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/passoAmigo_logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/passoAmigo_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4A90E2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.passoamigo.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/passoAmigo_logo.png",
+        "backgroundColor": "#4A90E2"
+      },
+      "package": "com.passoamigo.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "splash": {
+        "image": "./assets/passoAmigo_logo.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#4A90E2"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "passoamigo",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Este app precisa de acesso à localização para rastrear suas caminhadas."
+        }
+      ]
+    ],
+    "extra": {
+      "apiBaseUrl": "http://localhost:8080",
+      "useBackend": false,
+      "eas": {
+        "projectId": "5f0ef9e7-5dcb-41fe-a559-3264bde5009e"
+      }
+    }
+  }
+}
