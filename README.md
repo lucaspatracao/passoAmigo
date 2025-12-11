@@ -5,20 +5,6 @@ Um aplicativo mobile moderno para registro e acompanhamento de caminhadas com ra
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
----
-
-## 📥 Download
-
-<div align="center">
-
-### **Baixe o arquivo (.zip)**
-
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_ALzoKUcSP2tdtDLU9ErGwbydpNd-GPX/view?usp=sharing)
-
-</div>
-
----
-
 ## 📋 Sobre o Projeto
 
 O **PassoAmigo** é um aplicativo React Native desenvolvido com Expo que permite aos usuários:
