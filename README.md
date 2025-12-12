@@ -9,7 +9,7 @@ Um aplicativo mobile moderno para registro e acompanhamento de caminhadas com ra
 
 ## 📥 Download
 
-<div align="center">
+<div align="left">
 
 ### **Baixe o arquivo (.zip)**
 
