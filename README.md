@@ -15,7 +15,8 @@ Um aplicativo mobile moderno para registro e acompanhamento de caminhadas com ra
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_ALzoKUcSP2tdtDLU9ErGwbydpNd-GPX/view?usp=sharing)
 
-</div>
+### Vídeo de Demonstração (.mp4)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1UB6lhx7HIR07qpDKuhY03HmQBrZEcjbC/view?usp=sharing)
 
 ---
 
