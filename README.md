@@ -2,7 +2,7 @@
 
 Um aplicativo mobile moderno para registro e acompanhamento de caminhadas com rastreamento GPS em tempo real.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
